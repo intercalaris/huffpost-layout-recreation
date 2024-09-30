@@ -214,5 +214,12 @@ footer p {
   footer p, footer a {
     font-size: 1rem;
   }
+  main h1 {
+    width: 80%;
+    font-size: 4rem;
+    font-weight: 800;
+    text-align: center;
+    margin: 1rem auto;
+  }
 
 }
